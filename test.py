@@ -4,4 +4,4 @@ def main():
 
 if __name == "__main__":
     main()
-    print xy
+    print x
