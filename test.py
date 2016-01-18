@@ -5,7 +5,7 @@ This is hello world
 def main():
     """Here is the main program
 """
-    print "help world!"
+    print "hello world!"
 
 
 if __name__ == "__main__":
