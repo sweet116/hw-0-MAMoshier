@@ -4,7 +4,7 @@
 
 **Author:** _your name here_
 
-**Due date: _date here_
+**Due date:** _date here_
 
 ## Description
 
