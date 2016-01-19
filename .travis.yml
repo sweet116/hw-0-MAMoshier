@@ -4,6 +4,6 @@ python:
 # command to install dependencies
 install: "pip install pylint"
 # command to run tests
-script: "pylint test.py"
+script: "pylint XXX.py"
 notifications:
   email: false
