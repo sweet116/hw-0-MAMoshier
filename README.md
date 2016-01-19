@@ -8,10 +8,11 @@
 
 ## Description
 
+_Give a description of the assignment here. Often this will be copied from the text_
 
 ## What I Learned from This
 
-_explain what you learned from this assignment_
+_Explain what you learned from this assignment. This should be in your own words._
 
 ## Honor Pledge
 
