@@ -5,10 +5,6 @@ python:
 install: "pip install pylint"
 # command to run tests
 script:
-    - 1
-after_success:
-    - echo "Success"
-after_failure:
-    - echo "Failure"
+    - 0
 notifications:
   email: false
