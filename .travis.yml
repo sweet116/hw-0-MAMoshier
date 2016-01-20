@@ -5,7 +5,10 @@ python:
 install: "pip install pylint"
 # command to run tests
 script:
-    - echo "You need to modify .travis.yml"
     - 1
+after_success:
+    - echo "Success"
+after_failure:
+    - echo "Failure"
 notifications:
   email: false
