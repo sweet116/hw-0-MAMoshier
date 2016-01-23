@@ -20,4 +20,19 @@ For an assignment from the textbook, if the assignment indicates a specific file
     * This takes you to a new page. Scroll to the bottom and click ```Add service```
 
 
+* Correctly document each source file
+    * At the top of each source file (```.py``` file), include a docstring in te following format
+
+    ```
+    """
+    File: <filename>
+
+    Copyright (c) 2016 <your name>
+
+    License: MIT
+
+    <brief description of the code>
+    """    
+    ```
+
 * Ensure that what you push to the github repository builds correctly (the build badge displays as [![Build Status](https://img.shields.io/travis/ChapmanCPSC230Spring16/Assignment-X.svg)]()) in the README file.
