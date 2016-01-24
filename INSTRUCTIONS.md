@@ -7,9 +7,10 @@ For an assignment from the textbook, if the assignment indicates a specific file
 ## General
 
 
+
 * Edit the README.md file:
-    * Change _your name here_ and _date_ at the beginning of the file
-    * Edit the line ```[![Build Status](https://img.shields.io/travis/ChapmanCPSC230Spring16/assignment-X-YYYYYYYY.svg)](https://travis-ci.org/ChapmanCPSC230Spring16/assignment-X-YYYYYYYY)``` replacing ```X``` with the assignment number and ```YYYYYYYY``` with your github user name. The result should look like the name of the repository.
+    * Change _\<your name\>_ and _\<date\>_ at the beginning of the file
+    * Edit the line ```[![Build Status](https://img.shields.io/travis/ChapmanCPSC230Spring16/YYYYYYYY.svg)](https://travis-ci.org/ChapmanCPSC230Spring16/YYYYYYYY)``` replacing ```YYYYYYYY``` with the name of this repository (should be something like ```HW1<your git name>```)
     * Reread the __Honor Pledge__ again and 'sign' it with your name at the end
     * Add your own text in the __Description__ and __What I Learned__ sections
 
