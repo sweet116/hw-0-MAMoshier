@@ -2,7 +2,10 @@
 
 ## This Assignment
 
-For an assignment from the textbook, if the assignment indicates a specific file name, you must name your file exactly as it appears in the textbook. Otherwise, it will fail to be built correctly and will receive no points.
+* Clone this repository to your local machine.
+* Edit the README.md file according to the instructions below.
+* Perform a ```commit``` so our local repository remembers the edits you've made
+* Now push the results back to the github repository (the ```sync``` button does this)
 
 ## General
 
