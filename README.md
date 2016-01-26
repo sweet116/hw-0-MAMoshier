@@ -1,4 +1,4 @@
-# Git  Workflow
+# Git  Workflows
 
 **Author:** _\<your name\>_
 
