@@ -1,6 +1,6 @@
 # Git  Workflows
 
-**Author:** _\<your name\>_
+**Author:** _\<Branden Sweetser\>_
 
 **Due date:** _\<date\>_
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Branden Sweetser\>_
